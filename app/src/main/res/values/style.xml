@@ -1,0 +1,9 @@
+<resources>
+    <!-- Các style khác của bạn -->
+
+    <style name="CustomButtonStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+</resources>
